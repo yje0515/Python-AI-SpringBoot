@@ -23,3 +23,6 @@ FastAPI는 ASGI 표준을 따르는 웹 프레임 워크임 FastAPI 애플리케
 main.py 실행 Terminal에서 D:\phthonWorkSpace> uvicorn main:app --reload --port 8001 (위치확인)
 
 <img width="1241" height="757" alt="image" src="https://github.com/user-attachments/assets/58d0f86f-afe0-43c3-a45d-799686e8f188" />
+
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/42323d0b-7934-4dbe-904a-c89367499f99" />
+
